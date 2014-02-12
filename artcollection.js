@@ -11,6 +11,5 @@ return "This painting named " + this.title +
 " and has a value of: " + this.value
 }
 
-
 var waterfront = new Art("Waterfront", "1932", "$200")
 console.log(waterfront.toString() )
